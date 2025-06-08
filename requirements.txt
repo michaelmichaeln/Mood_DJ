@@ -1,0 +1,9 @@
+opencv-python==4.11.0.86
+numpy==1.24.3
+spotipy==2.23.0
+python-dotenv==1.0.0
+tensorflow-macos==2.13.0
+tensorflow-metal==1.0.1
+deepface==0.0.79
+Flask==2.3.3
+Pillow==10.0.1 
